@@ -6,6 +6,8 @@
 <img src="https://github.com/user-attachments/assets/0589061c-d3f0-4ac2-a3d6-43b67906ffee" width="240" height="240" />
 </p>
 <p align="center" >
-$\textsf{\color{#c9bdb7}1\color{#e02b5e}7}$ 
-$\textsf{\color{#3b3432}he}$ $\textsf{\color{#e6935c}ᛝ}$ $\textsf{\color{#FF8ABD}tm\color{#CDF5FE}asc}$ $\textsf{\color{#F66F26}b\color{#FF9657}u\color{#FFFBEE}t\color{#FFCA8A}c\color{#FFA81A}h}$
+$\textsf{\color{#c9bdb7}hi i'm}$ $\textsf{\color{#b82818}reuben}$ $\textsf{\color{#c9bdb7}or}$ $\textsf{\color{#e8812c}hunter}$
+</p>
+<p align="center">
+$\textsf{\color{#c9bdb7}i like}$ $\textsf{\color{#ebe4dd}white\color{#cc1f2a}rose}$ $\textsf{\color{#47964b}nuts\color{#c9bdb7} 'n\color{#cc1f2a} dolts}$ $\textsf{\color{#c9bdb7}and}$ $\textsf{\color{#cae0ed}snow\color{#3b3432}fall}$
 </p>
