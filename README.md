@@ -11,3 +11,6 @@ $\textsf{\color{#c9bdb7}hi i'm}$ $\textsf{\color{#b82818}reuben}$ $\textsf{\colo
 <p align="center">
 $\textsf{\color{#c9bdb7}i like}$ $\textsf{\color{#ebe4dd}white\color{#cc1f2a}rose}$ $\textsf{\color{#47964b}nuts\color{#c9bdb7} 'n\color{#cc1f2a} dolts}$ $\textsf{\color{#c9bdb7}and}$ $\textsf{\color{#cae0ed}snow\color{#3b3432}fall}$
 </p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/baef814e-3b4b-4695-9f33-972da02793f4" />
+</p>
